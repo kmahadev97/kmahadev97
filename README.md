@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am in the process of learning all about complex systems! This profile will show my progress throughout my journey as I slowly build towards a PhD. 
 
 <!--
 **kmahadev97/kmahadev97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
